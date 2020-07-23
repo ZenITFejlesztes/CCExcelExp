@@ -1,0 +1,14 @@
+.hostContainer > .topContainer {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+.topContainer > .myButton {
+    font-size: inherit;
+    min-height: 2.2em;
+    border: none;
+    padding: .5em 1em;
+    cursor: pointer;
+}
